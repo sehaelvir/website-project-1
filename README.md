@@ -1,2 +1,2 @@
-#Website Project for ZeForge Academy
+Website Project for ZeForge Academy
 First project in HTML5 and CSS3
